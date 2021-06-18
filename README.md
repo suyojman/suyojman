@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://suyojtamrakar.medium.com/how-to-provide-initial-data-in-django-models-2422aaf3c09a
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
