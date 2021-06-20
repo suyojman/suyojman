@@ -17,7 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://suyojtamrakar.medium.com/how-to-provide-initial-data-in-django-models-2422aaf3c09a
+1. https://suyojtamrakar.medium.com/how-to-provide-initial-data-in-django-models-2422aaf3c09a
+2. https://suyojtamrakar.medium.com/how-to-manage-multiple-remote-connections-through-an-ssh-config-file-52be4d40f49e
+3. https://suyojtamrakar.medium.com/managing-your-requirements-txt-with-pip-tools-in-python-8d07d9dfa464
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
